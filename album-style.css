@@ -1,0 +1,23 @@
+body {
+  background-color: rgb(255, 218, 196);
+  font-family: "Roboto", sans-serif;
+}
+
+div.gallery {
+  width: 50%;
+  align-items: center;
+  display: block;
+  background-color: white;
+  text-align: center;
+
+  margin: 20px auto;
+  padding: 10px;
+  border-radius: 20px;
+  box-shadow: 5px 5px 20px rgba(0, 0, 0, 0.2);
+}
+
+.gallery span {
+  text-transform: uppercase;
+  font-size: 40px;
+  color: rgb(243, 98, 98);
+}
